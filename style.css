@@ -1,7 +1,12 @@
-:root{
-    --azul-marinho: #03045eff;
-    --azul: #0077b6ff;
-    --azul-claro: #00b4d8ff;
-    --verde-agua: #90e0efff;
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Elms+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+    
+    :root{ --azul-marinho: #03045eff;
+        --azul: #0077b6ff;
+        --azul-claro: #00b4d8ff;
+        --verde-agua: #90e0efff;
+--titulo: "Dancing Script", sans-serif;
+   --texto:"Elms Sans", sans-serif; 
+    }
    
-}
