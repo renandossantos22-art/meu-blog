@@ -9,4 +9,7 @@
 --titulo: "Dancing Script", sans-serif;
    --texto:"Elms Sans", sans-serif; 
     }
-   
+ body{
+    background-color: var(--azul-claro);
+    font-family: var(--texto);
+ }  
